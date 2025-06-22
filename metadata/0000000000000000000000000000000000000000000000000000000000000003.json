@@ -1,0 +1,9 @@
+{
+  "name": "Obez Blyasnok #3 – Cool Shades",
+  "description": "Солнечные очки + серьёзный взгляд = стиль.",
+  "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb",
+  "attributes": [
+    { "trait_type": "Accessory", "value": "Sunglasses" },
+    { "trait_type": "Edition", "value": 3 }
+  ]
+}

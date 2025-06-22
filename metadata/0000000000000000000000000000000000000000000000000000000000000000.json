@@ -1,0 +1,9 @@
+{
+  "name": "Obez Blyasnok #0 – Classic",
+  "description": "Первая обезбясна из тестовой серии. Классика жанра.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Macaca_nigra_self-portrait_large.jpg",
+  "attributes": [
+    { "trait_type": "Mood", "value": "Neutral" },
+    { "trait_type": "Edition", "value": 0 }
+  ]
+}

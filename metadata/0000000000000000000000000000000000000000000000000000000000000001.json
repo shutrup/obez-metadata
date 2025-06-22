@@ -1,0 +1,10 @@
+
+{
+  "name": "Obez Blyasnok #1 – Smile",
+  "description": "Улыбчивая обезьянка для поднятия настроения.",
+  "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+  "attributes": [
+    { "trait_type": "Mood", "value": "Happy" },
+    { "trait_type": "Edition", "value": 1 }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Obez Blyasnok #2 – Thinking",
+  "description": "Философская макака. Думает о смысле жизни и газе в BSC.",
+  "image": "https://images.unsplash.com/photo-1500336624523-d727130c3328",
+  "attributes": [
+    { "trait_type": "Mood", "value": "Thinking" },
+    { "trait_type": "Edition", "value": 2 }
+  ]
+}

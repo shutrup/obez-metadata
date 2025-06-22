@@ -1,0 +1,9 @@
+{
+  "name": "Obez Blyasnok #4 – Banana King",
+  "description": "Король бананов с золотой короной.",
+  "image": "https://images.unsplash.com/photo-1568572933382-74d440642117",
+  "attributes": [
+    { "trait_type": "Crown", "value": "Gold" },
+    { "trait_type": "Edition", "value": 4 }
+  ]
+}
